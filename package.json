@@ -1,0 +1,26 @@
+{
+  "name": "imooc",
+  "version": "1.0.0",
+  "description": "itpoet imooc movie",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "jade": "^1.11.0",
+    "moment": "^2.18.1",
+    "mongoose": "^4.10.7",
+    "pug": "^2.0.0-rc.2",
+    "serve-static": "^1.12.3",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node.js",
+    "MongoDB"
+  ],
+  "author": "itPoet",
+  "license": "ISC"
+}
